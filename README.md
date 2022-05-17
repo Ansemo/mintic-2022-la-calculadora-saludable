@@ -1,9 +1,13 @@
 # mintic-2022-la-calculadorasaludable
+---------------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/104838545/168868317-e04d6ead-e89d-4045-97ac-b89efda23ed5.png)
+---------------------------------------------------------------------------------------
 ![2](https://user-images.githubusercontent.com/104838545/168868320-05ac2c2f-9158-4d79-ad82-9f7b03878f96.png)
+---------------------------------------------------------------------------------------
 ![3](https://user-images.githubusercontent.com/104838545/168868324-ba3b609a-6b3a-4035-8b66-7df9bb37e74c.png)
+---------------------------------------------------------------------------------------
 ![4](https://user-images.githubusercontent.com/104838545/168868328-ad50f910-e980-457c-a84a-ca2563026a58.png)
-
+---------------------------------------------------------------------------------------
 #OBJETIVO
 Este reto tiene como objetivo que apliques todos los conceptos que
 hemos visto en las semanas 1 y 2, para ello debes solucionar un
