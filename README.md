@@ -1,4 +1,4 @@
-# mintic-2022-la-calculadorasaludable
+# mintic 2022 la calculadora saludable
 ---------------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/104838545/168868317-e04d6ead-e89d-4045-97ac-b89efda23ed5.png)
 ---------------------------------------------------------------------------------------
