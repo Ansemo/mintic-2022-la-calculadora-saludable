@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------------
 ![4](https://user-images.githubusercontent.com/104838545/168868328-ad50f910-e980-457c-a84a-ca2563026a58.png)
 ---------------------------------------------------------------------------------------
-#OBJETIVO
+<h1>OBJETIVO</h1>
 Este reto tiene como objetivo que apliques todos los conceptos que
 hemos visto en las semanas 1 y 2, para ello debes solucionar un
 problema aplicando el proceso IDEAL y luego implementar la
