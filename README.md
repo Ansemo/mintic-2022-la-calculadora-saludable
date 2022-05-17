@@ -28,8 +28,8 @@ Diferentes expertos a través de los años han definido fórmulas
 para calcular el peso idea de una persona. Una de las mas usadas
 es la del Dr. Miller que establece que el peso ideal para hombres y
 mujeres está dado por las fórmulas:
-• Hombre = 56.2 +1.41*(Altura (cm)/2.54 -60)
-• Mujer = 53.1 +1.36 *(Altura (cm)/2.54 -60))
+• Hombre = 56.2 +1.41*(Altura (cm)/2.54 -60)<br>
+• Mujer = 53.1 +1.36 *(Altura (cm)/2.54 -60))<br>
  Basado en las métricas de https://www.calculator.net/fitness-and-health-calculator.html
  <h1>QUEMANDO CALORÍAS</h1>
 Si hay algo que les interesa a los deportistas es saber el número de
@@ -38,17 +38,17 @@ calcularlas es muy simple:
 • Calorías quemadas = (Tiempo actividad (min) * MET * Peso
 (Kg)) /200
 <h1>VALORES DEL MET</h1>
-Caminar = 2
-• Tenis = 5
-• Montar en bicicleta = 14
-• Correr = 6
+Caminar = 2<br>
+• Tenis = 5<br>
+• Montar en bicicleta = 14<br>
+• Correr = 6<br>
 • Nadar = 9.8
 <h1>PORCENTAJE DE GRASA CORPORAL</h1>
 Es importante para el deportista la cantidad de grasa corporal que
 tiene, las fórmulas para calcular el porcentaje del peso de una
 persona que es grasa son:
-• Hombres adultos = 1.20 * IMC + 0.23 * Edad - 16.2
-• Mujeres adultas = 1.20 * IMC + 0.23 * Edad - 5.4
+• Hombres adultos = 1.20 * IMC + 0.23 * Edad - 16.2<br>
+• Mujeres adultas = 1.20 * IMC + 0.23 * Edad - 5.4<br>
 Donde IMC es el índice de masa corporal que se calcula de la
 siguiente manera:
 • IMC = peso (Kg) / Altura2 (m)
@@ -57,11 +57,11 @@ El índice metabólico basal o la tasa metabólica basal (TMB) indica
 la cantidad de calorías que necesita el cuerpo para realizar las
 funciones metabólicas básicas, como mantener los órganos vitales
 en funcionamiento. Se calcula con las siguientes formulas
-• Hombres = 13.397P + 4.799E - 5.677A + 88.362
+• Hombres = 13.397P + 4.799E - 5.677A + 88.362<br>
 • Mujeres = 9.247P + 3.098E - 4.330A + 447.593
 <h1>DONDE</h1>
-•P = Peso en Kg
-• A = Altura en cm
+•P = Peso en Kg<br>
+• A = Altura en cm<br>
 • E = Edad en años
 
 
