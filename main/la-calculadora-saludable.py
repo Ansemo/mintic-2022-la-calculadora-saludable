@@ -1,3 +1,7 @@
+
+#Esta linea es un comentario
+
+
 def sexo():
   sexo=input("Escriba su sexo [m] ó [f]: ")
   if(sexo=="m"):
